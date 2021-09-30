@@ -1,2 +1,2 @@
 # supply-chain-project-ineuron-
-Machine learned supply chain freight cost prediction
+Developed ML model for supply chain freight cost prediction
